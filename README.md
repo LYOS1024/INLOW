@@ -62,3 +62,5 @@ In INLOW's root dir: `make install-headers`
 `cd $INLOWROOT`
 
 `make qemu`
+
+接下来我将为每个文件添加注释信息
